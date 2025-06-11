@@ -1,0 +1,7 @@
+[project]
+name = "yt-url"
+version = "0.1.0"
+description = "CLI python tool for searching youtube URLs"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

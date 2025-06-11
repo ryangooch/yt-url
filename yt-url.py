@@ -6,11 +6,8 @@ A command-line utility that searches YouTube for videos and returns
 the URL of the top search result.
 
 Usage:
-    yt-url "search query"
     python yt_url.py "search query"
 
-Example:
-    yt-url "TDD AI agents and coding with Kent Beck | The Pragmatic Engineer"
 """
 
 import argparse
